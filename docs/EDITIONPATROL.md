@@ -7,13 +7,15 @@
 > “A satellite broadcasting company believes it can save £1000’s by replacing its software editions with view-only equivalent and Protirus have designed the solution.”
 Protirus Edition Patrol tells you exactly which instances of your premium software are being used to simply view or read files, allowing an administrator to consider replacing it with the vendors free “reader” alternative.
 
+Protirus Edition Patrol tells you exactly which instances of your premium software are being used to simply view or read files, allowing an administrator to consider replacing it with the vendors free “reader” alternative.
+
 ## Features
 
-• Runs from Symantec Management Platform
-• Invisible to user
-• Configurable to when and what software it searches for
-• Allows reporting by Workstation / User / Application / Date
-• e.g. Tell me all workstations that have used Adobe Acrobat to view files, but not edit, in 2011
+- Runs from Symantec Management Platform
+- Invisible to user
+- Configurable to when and what software it searches for
+- Allows reporting by Workstation / User / Application / Date
+- e.g. Tell me all workstations that have used Adobe Acrobat to view files, but not edit, in 2011
 
 | Software | Cost of License per Seat | Cost of reader alternative |
 |--|--|--|
